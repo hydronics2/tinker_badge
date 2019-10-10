@@ -5,11 +5,11 @@ The Tinker_Badge is a ribbon add-on to the ASTC2019 conference badge. Particpant
 Parts List:
 
 
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/custom_pcbs.JPG)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge1.JPG)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge3.JPG)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge2.JPG)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge4.JPG)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/custom_pcbs.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge1.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge3.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge2.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge4.jpg)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/tinker_badge_back.JPG)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/tinker_badge_front.JPG)
 
