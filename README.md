@@ -7,8 +7,8 @@ Parts List:
 
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/custom_pcbs.jpg)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge1.jpg)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge3.jpg)
-![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge2.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badg3.jpg)
+![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badg2.jpg)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/badge4.jpg)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/tinker_badge_back.JPG)
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/tinker_badge_front.JPG)
