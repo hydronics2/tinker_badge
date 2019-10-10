@@ -11,6 +11,6 @@ The Tinker_Badge is a ribbon add-on to the ASTC2019 conference badge. Particpant
 ![alt text](https://github.com/hydronics2/tinker_badge/blob/master/images/tinker_badge_front.JPG)
 
 Parts List:
-* either SOIC surface mount or PID8 through-hole attiny85s work
+* either SOIC surface mount or PID8 through-hole attiny85s [work](https://www.digikey.com/product-detail/en/microchip-technology/ATTINY85-20PU/ATTINY85-20PU-ND/735469)
 * 200 ohm resistors
 * 
